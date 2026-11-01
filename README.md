@@ -70,10 +70,10 @@ The dashboard enables users to:
 - Power Query 
 - DAX Calculations
 - KPI Design
-- Interactive Visualizations
+- Interactive Data Visualizations
 - Business Intelligence Reporting
 - Dashboard Design
-- Data Visualization
+
 
 ## 🛠️ Technology Stack
 
@@ -86,15 +86,14 @@ The dashboard enables users to:
 
 Profit = SUM(InputData[Total Selling Price])-sum(InputData[total Buying Price])
 
-Profit % = [Profit]/SUM(InputData[total Buying Price])
+Profit % = [Profit]/SUM(InputData[total selling Price])
 
 ## Dataset used
 
-📦 Product Information (Name, Category)
+📦 Product Information (Name, Category, Buying & Selling Prices)
 🧾 Sales Transactions (Order Date, Quantity Sold)
 💳 Payment Methods
 🌐 Sales Channels
-💰 Buying & Selling Prices
 
 ## 🎯 Project Type
 
