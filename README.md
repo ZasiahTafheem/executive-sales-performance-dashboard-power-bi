@@ -95,14 +95,6 @@ Profit % = [Profit]/SUM(InputData[total selling Price])
 💳 Payment Methods
 🌐 Sales Channels
 
-## 🎯 Project Type
-
--Portfolio Project
-
--Business Intelligence Project
-
--Data Analytics Project
- 
 
 ## 👨‍💻 Author
 
