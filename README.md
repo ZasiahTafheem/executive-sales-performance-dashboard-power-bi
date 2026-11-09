@@ -13,6 +13,14 @@ Business managers often struggle to obtain a consolidated view of sales performa
 
 <img width="773" height="431" alt="Sales Dashboard_trial_1-Zasiah_v3" src="https://github.com/user-attachments/assets/37db6723-0f60-426a-b00d-775ecdd34ca0" />
 
+## ⚙️ Dashboard Features
+
+- Interactive filters and slicers
+- KPI cards
+- Sales trend analysis
+- Product performance analysis
+- Channel performance comparison
+- Payment method analysis
 ## 📌 Project Overview
 
 This project presents an interactive Power BI Executive Sales Dashboard designed to provide insights into sales performance, profitability, customer purchasing behaviour, and business growth trends.
