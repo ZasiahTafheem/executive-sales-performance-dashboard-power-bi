@@ -87,8 +87,11 @@ Microsoft Power BI | Excel | Power Query | DAX
 ## Dataset used
 
 📦 Product Information (Name, Category, Buying & Selling Prices)
+
 🧾 Sales Transactions (Order Date, Quantity Sold)
+
 💳 Payment Methods
+
 🌐 Sales Channels
 
 
