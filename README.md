@@ -5,7 +5,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-Project-orange)
 ## 📊 power-bi-executive-sales-dashboard
 
-## Business Problem
+## 🎯Business Problem
 
 Business managers often struggle to obtain a consolidated view of sales performance across products, categories, sales channels, and payment methods. This sales performance dashboard was developed to help management team monitor key business KPIs, evaluate the performance of products and categories, evaluate revenue and profitability trends, and support data-driven business decisions through interactive reporting.
 
@@ -102,7 +102,7 @@ Profit % =
 DIVIDE([Profit],
     SUM(InputData[Total Selling Price]))
 ```
-## Dataset used
+## 🗂️ Dataset used
 
 📦 Product Information (Name, Category, Buying & Selling Prices)
 
