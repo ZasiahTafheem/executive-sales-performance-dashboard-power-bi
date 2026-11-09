@@ -85,11 +85,11 @@ The dashboard enables users to:
 - Business Intelligence Reporting
 - Dashboard Design
 
-## 🛠️ Technology Stack
+## 💻 Technology Stack
 
 Microsoft Power BI | Excel | Power Query | DAX
 
-## Sample DAX Measures
+## 🧮 Sample DAX Measures
 
 ```DAX
 Profit =
