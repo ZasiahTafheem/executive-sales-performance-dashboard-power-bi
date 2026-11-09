@@ -23,7 +23,7 @@ Business managers often struggle to obtain a consolidated view of sales performa
 - Payment method analysis
 ## 📌 Project Overview
 
-This project presents an interactive Power BI Executive Sales Dashboard designed to provide insights into sales performance, profitability, customer purchasing behaviour, and business growth trends.
+This project presents a clean interactive Power BI Executive Sales Dashboard designed to provide insights into sales performance, profitability, customer purchasing behaviour, and business growth trends.
 
 The dashboard enables users to:
 
