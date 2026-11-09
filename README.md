@@ -39,30 +39,14 @@ The dashboard enables users to:
 
 | KPI | Value |
 |------|-------|
-| Total Sales | 170.6K |
-| Profit Margin | 7% |
-| Total Orders | 2K |
-| Best Month by Profit | September |
-| Top Product by Sales | Rubber Mat |
-| Top Product Category | Beverage |
-| Most Used Payment Method | Online |
-| Highest Performing Channel | Retail |
-
-💰 Total Sales : 170.6K
-
-💵 Profit Margin : 7%
-
-🛒 Total Orders: 2K
-
-📅 Best Month by Profit: Sept
-
-💰Top product by sale: Rubber Mat
-
-🏆 Top Product Category: Beverage
-
-💳 Most Used Payment Method: Online
-
-🌐 Highest Performing Sales Channel: Retail
+| 💰Total Sales | 170.6K |
+| 💵Profit Margin | 7% |
+| 🛒Total Orders | 2K |
+| 📅Best Month by Profit | September |
+| 🏆Top Product by Sales | Rubber Mat |
+| 🌟Top Product Category | Beverage |
+| 💳Most Used Payment Method | Online |
+| 🌐Highest Performing Channel | Retail |
 
 ## 📈 Key Insights
 
