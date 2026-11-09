@@ -37,6 +37,17 @@ The dashboard enables users to:
 
 ## 📊 Key Performance Indicators (KPIs)
 
+| KPI | Value |
+|------|-------|
+| Total Sales | 170.6K |
+| Profit Margin | 7% |
+| Total Orders | 2K |
+| Best Month by Profit | September |
+| Top Product by Sales | Rubber Mat |
+| Top Product Category | Beverage |
+| Most Used Payment Method | Online |
+| Highest Performing Channel | Retail |
+
 💰 Total Sales : 170.6K
 
 💵 Profit Margin : 7%
