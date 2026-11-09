@@ -52,7 +52,7 @@ The dashboard enables users to:
 
 - The Beverage category was the main contributor to overall sales performance and should remain a priority product segment.
 - Retail sales outperformed other channels, making it the most important revenue-generating channel for the business.
-- September recorded the highest profit, indicating potential seasonal demand patterns worth exploring further.
+- September recorded the highest profit, and sales indicating potential seasonal demand patterns worth exploring further.
 - Customers showed a strong preference for online payment methods, suggesting that maintaining a seamless digital payment experience is important.
 
 
