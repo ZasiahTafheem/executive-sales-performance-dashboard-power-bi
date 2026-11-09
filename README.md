@@ -45,6 +45,14 @@ The dashboard enables users to:
 
 🌐 Highest Performing Sales Channel: Retail
 
+## 📈 Key Insights
+
+- The Beverage category was the main contributor to overall sales performance and should remain a priority product segment.
+- Retail sales outperformed other channels, making it the most important revenue-generating channel for the business.
+- September recorded the highest profit, indicating potential seasonal demand patterns worth exploring further.
+- Customers showed a strong preference for online payment methods, suggesting that maintaining a seamless digital payment experience is important.
+
+
 ## 🔍 Business Questions Answered
 
 ✅ What is the total sales revenue?
@@ -61,8 +69,9 @@ The dashboard enables users to:
 
 ## 💡 Business Recommendations
 
-- Expand inventory planning for top-selling products.
+- Expand inventory planning for top-selling products to reduce stock-out risk.
 - Focus marketing investment on high-performing sales channels.
+- Review low-profit products to improve pricing strategies and profitability.
 
 ## 🛠 Skills Demonstrated
 
@@ -72,7 +81,6 @@ The dashboard enables users to:
 - Interactive Data Visualizations
 - Business Intelligence Reporting
 - Dashboard Design
-
 
 ## 🛠️ Technology Stack
 
