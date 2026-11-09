@@ -88,22 +88,16 @@ Microsoft Power BI | Excel | Power Query | DAX
 
 ## Sample DAX Measures
 
-- Profit = SUM(InputData[Total Selling Price])-sum(InputData[total Buying Price])
-
-- Profit % = [Profit]/SUM(InputData[total selling Price])
 ```DAX
 Profit =
 SUM(InputData[Total Selling Price])
--
-SUM(InputData[Total Buying Price])
+-SUM(InputData[Total Buying Price])
 ```
 
 ```DAX
 Profit % =
-DIVIDE(
-    [Profit],
-    SUM(InputData[Total Selling Price])
-)
+DIVIDE([Profit],
+    SUM(InputData[Total Selling Price]))
 ```
 ## Dataset used
 
