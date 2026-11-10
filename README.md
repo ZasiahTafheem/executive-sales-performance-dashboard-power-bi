@@ -11,7 +11,7 @@ Business managers often struggle to obtain a consolidated view of sales performa
 
 ## 🖼️ Dashboard Preview
 
-<img width="773" height="431" alt="Sales Dashboard_trial_1-Zasiah_v3" src="https://github.com/user-attachments/assets/37db6723-0f60-426a-b00d-775ecdd34ca0" />
+<img width="773" height="431" alt="Sales Dashboard_trial_1-Zasiah_v3" src="https://github.com/user-attachments/assets/6c170158-d785-4b99-866e-84f515a0a3cb" />
 
 ## ⚙️ Dashboard Features
 
